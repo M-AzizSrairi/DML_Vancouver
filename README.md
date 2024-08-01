@@ -38,10 +38,4 @@ DML_Vancouver is a machine learning framework designed to analyze and predict va
 - `DML_FINAL_5_MODELS.ipynb`: Main notebook for training models.
 - `prediction.ipynb`: Notebook for making predictions.
 - `visualizations.ipynb`: Notebook for visualizing data.
-
-## Contributing
-Please fork the repository and create a pull request for any contributions.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
  
