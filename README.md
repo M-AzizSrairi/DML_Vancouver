@@ -1,7 +1,7 @@
 # DML_Vancouver
 
 ## Description
-DML_Vancouver is a machine learning framework designed to analyze and predict various aspects of Vancouver's demographic and geographic data.
+DML_Vancouver is a project that aims to estimate the effect of transit stations on commercial break and enter crimes in Vancouer city using Double Machine Learning Framework.
 
 ## Installation
 1. Clone the repository:
